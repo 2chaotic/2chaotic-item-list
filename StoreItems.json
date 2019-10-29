@@ -1814,7 +1814,7 @@
 	},
 	{
 		"abr": "fertilitytotem",
-		"price": 1,
+		"price": 100,
 		"category": "Buildings",
 		"defname": "Cults_FertilityTotem"
 	},
@@ -2139,7 +2139,7 @@
 	{
 		"abr": "grimoireoftheoccult",
 		"price": 33,
-		"category": "Items",
+		"category": "Books",
 		"defname": "Cults_Grimoire"
 	},
 	{
@@ -4088,7 +4088,7 @@
 	},
 	{
 		"abr": "sleeptotem",
-		"price": 1,
+		"price": 100,
 		"category": "Buildings",
 		"defname": "Cults_SleepTotem"
 	},
@@ -4581,7 +4581,7 @@
 	{
 		"abr": "thekinginyellow",
 		"price": 33,
-		"category": "Items",
+		"category": "Books",
 		"defname": "Cults_TheKingInYellow"
 	},
 	{
@@ -5125,11 +5125,47 @@
 		"defname": "Meat_YorkshireTerrier"
 	},
 	{
-		"abr": "youthserum",
-		"price": 2333,
-		"category": "Items",
-		"defname": "MechSerumYouth"
+		"abr": "guestbed",
+		"price": 155,
+		"category": "Furniture",
+		"defname": "BedGuest"
+	},
+	{
+		"abr": "guestbedroll",
+		"price": 137,
+		"category": "Furniture",
+		"defname": "BedrollGuest"
+	},
+	{
+		"abr": "guestdoublebed",
+		"price": 292,
+		"category": "Furniture",
+		"defname": "DoubleBedGuest"
+	},
+	{
+		"abr": "guestdoublebedroll",
+		"price": 290,
+		"category": "Furniture",
+		"defname": "BedrollDoubleGuest"
+	},
+	{
+		"abr": "guestelderthingbed",
+		"price": 122,
+		"category": "Furniture",
+		"defname": "ET_BedGuest"
+	},
+	{
+		"abr": "guesthospitalbed",
+		"price": 667,
+		"category": "Furniture",
+		"defname": "HospitalBedGuest"
+	},
+	{
+		"abr": "guestroyalbed",
+		"price": 1467,
+		"category": "Furniture",
+		"defname": "RoyalBedGuest"
 	}
 	],
-	"total": 862
+	"total": 883
 }
