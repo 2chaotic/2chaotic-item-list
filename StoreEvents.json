@@ -61,11 +61,6 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "flashstorm",
-		"price": 400,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "coldsnap",
 		"price": 800,
 		"karmatype": "Bad"
@@ -113,6 +108,11 @@
 	{
 		"abr": "animaltame",
 		"price": 150,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "wandererjoins",
+		"price": 500,
 		"karmatype": "Good"
 	},
 	{
@@ -287,22 +287,22 @@
 	},
 	{
 		"abr": "pawn",
-		"price": 1500,
+		"price": 750,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "levelskill",
-		"price": 1500,
+		"price": 600,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "trait",
-		"price": 3500,
+		"price": 750,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "removetrait",
-		"price": 5500,
+		"price": 600,
 		"karmatype": "Good"
 	},
 	{
