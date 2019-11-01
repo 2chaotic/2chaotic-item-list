@@ -5125,6 +5125,816 @@
 		"defname": "Meat_YorkshireTerrier"
 	},
 	{
+		"abr": "40mmcannon",
+		"price": 1333,
+		"category": "Ranged weapons",
+		"defname": "Mech40MMCannon"
+	},
+	{
+		"abr": "advandroidassemblykit",
+		"price": 3667,
+		"category": "Manufactured",
+		"defname": "AndroidT2Kit"
+	},
+	{
+		"abr": "advancedbatterypack",
+		"price": 2833,
+		"category": "Android",
+		"defname": "NanowireBattery"
+	},
+	{
+		"abr": "advancedbio-reactor",
+		"price": 2833,
+		"category": "Android",
+		"defname": "HighPowerTransformer"
+	},
+	{
+		"abr": "advancedcoolantpump",
+		"price": 2500,
+		"category": "Android",
+		"defname": "AdvancedCoolantInjector"
+	},
+	{
+		"abr": "advancedcounterweight",
+		"price": 2500,
+		"category": "Android",
+		"defname": "AdvRearCounterweight"
+	},
+	{
+		"abr": "advancedhearingsensor",
+		"price": 2000,
+		"category": "Android",
+		"defname": "AdvHearingS"
+	},
+	{
+		"abr": "advancedheatsink",
+		"price": 2500,
+		"category": "Android",
+		"defname": "MultiLayerHeatsink"
+	},
+	{
+		"abr": "advancedlightsensor",
+		"price": 3000,
+		"category": "Android",
+		"defname": "MultiSpectrumEye"
+	},
+	{
+		"abr": "advancedmechanitestorage",
+		"price": 2500,
+		"category": "Android",
+		"defname": "NaniteStorageDevice"
+	},
+	{
+		"abr": "advancedpowerconverter",
+		"price": 2833,
+		"category": "Android",
+		"defname": "HighPowerConverter"
+	},
+	{
+		"abr": "advancedsmellingsensor",
+		"price": 1333,
+		"category": "Android",
+		"defname": "SmellingAdvS"
+	},
+	{
+		"abr": "agriculturalimplant",
+		"price": 3333,
+		"category": "Android",
+		"defname": "FarmingMindImplant"
+	},
+	{
+		"abr": "androidassemblykit",
+		"price": 2250,
+		"category": "Items",
+		"defname": "AndroidT1Kit"
+	},
+	{
+		"abr": "androidimplantsworkbench",
+		"price": 675,
+		"category": "Production",
+		"defname": "AndroidOtherStuffTable"
+	},
+	{
+		"abr": "androidpartsworkbench",
+		"price": 417,
+		"category": "Production",
+		"defname": "AndroidPartsTable"
+	},
+	{
+		"abr": "androidupgradestation",
+		"price": 1142,
+		"category": "Furniture",
+		"defname": "AndroidOperationBed"
+	},
+	{
+		"abr": "anti-mechrifle",
+		"price": 1500,
+		"category": "Ranged weapons",
+		"defname": "AntiMechRifle"
+	},
+	{
+		"abr": "archotecharchotechbio-reactor",
+		"price": 6667,
+		"category": "Android",
+		"defname": "MolecularDecomposer"
+	},
+	{
+		"abr": "archotechbatterypack",
+		"price": 5333,
+		"category": "Android",
+		"defname": "SecretBatteryPack"
+	},
+	{
+		"abr": "archotechcoolantpump",
+		"price": 6667,
+		"category": "Android",
+		"defname": "SecretCoolantPump"
+	},
+	{
+		"abr": "archotechhearingsensor",
+		"price": 3667,
+		"category": "Android",
+		"defname": "ArchHearingS"
+	},
+	{
+		"abr": "archotechheatsink",
+		"price": 7500,
+		"category": "Android",
+		"defname": "SecretHeatsink"
+	},
+	{
+		"abr": "archotechlightsensor",
+		"price": 7500,
+		"category": "Android",
+		"defname": "MDEye"
+	},
+	{
+		"abr": "archotechmechanitestorage",
+		"price": 7500,
+		"category": "Android",
+		"defname": "ArchotechNanites"
+	},
+	{
+		"abr": "archotechpowerconverter",
+		"price": 5833,
+		"category": "Android",
+		"defname": "QuantumConverter"
+	},
+	{
+		"abr": "basiccounterweight",
+		"price": 1167,
+		"category": "Android",
+		"defname": "BasicRearCounterweight"
+	},
+	{
+		"abr": "basiclaborchip",
+		"price": 2000,
+		"category": "Android",
+		"defname": "BasicLaborMindImplant"
+	},
+	{
+		"abr": "basicreplacementarm",
+		"price": 833,
+		"category": "Android",
+		"defname": "BasicReplacementArm"
+	},
+	{
+		"abr": "basicreplacementleg",
+		"price": 833,
+		"category": "Android",
+		"defname": "BasicReplacementLeg"
+	},
+	{
+		"abr": "bearman",
+		"price": 1667,
+		"category": "Animal",
+		"defname": "BearMan"
+	},
+	{
+		"abr": "bearmanmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_BearMan"
+	},
+	{
+		"abr": "blueprintsimplant",
+		"price": 2667,
+		"category": "Android",
+		"defname": "BuilderMindImplant"
+	},
+	{
+		"abr": "camelman",
+		"price": 1667,
+		"category": "Animal",
+		"defname": "CamelMan"
+	},
+	{
+		"abr": "camelmanmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_CamelMan"
+	},
+	{
+		"abr": "charismaimplant",
+		"price": 1667,
+		"category": "Android",
+		"defname": "CharismaMindImplant"
+	},
+	{
+		"abr": "chemicalcapsule",
+		"price": 17,
+		"category": "Manufactured",
+		"defname": "ChemicalEgg"
+	},
+	{
+		"abr": "chemicalprocessingunit",
+		"price": 1333,
+		"category": "Animal",
+		"defname": "AndroidChicken"
+	},
+	{
+		"abr": "compositeframeplating",
+		"price": 1667,
+		"category": "Android",
+		"defname": "CompositePlating"
+	},
+	{
+		"abr": "crudebatterypack",
+		"price": 667,
+		"category": "Android",
+		"defname": "SmallBatteryPack"
+	},
+	{
+		"abr": "crudebio-reactor",
+		"price": 667,
+		"category": "Android",
+		"defname": "LowPowerTransformer"
+	},
+	{
+		"abr": "crudecoolantpump",
+		"price": 667,
+		"category": "Android",
+		"defname": "FlimsyCoolantPump"
+	},
+	{
+		"abr": "crudehearingsensor",
+		"price": 500,
+		"category": "Android",
+		"defname": "CrudeHearingS"
+	},
+	{
+		"abr": "crudeheatsink",
+		"price": 500,
+		"category": "Android",
+		"defname": "CrudeHeatsink"
+	},
+	{
+		"abr": "crudejaw",
+		"price": 1167,
+		"category": "Android",
+		"defname": "CrudeJawAndroid"
+	},
+	{
+		"abr": "crudelightsensor",
+		"price": 333,
+		"category": "Android",
+		"defname": "LightReceivingDiode"
+	},
+	{
+		"abr": "crudemechanitestorage",
+		"price": 667,
+		"category": "Android",
+		"defname": "TubeSealantTank"
+	},
+	{
+		"abr": "crudepowerconverter",
+		"price": 500,
+		"category": "Android",
+		"defname": "BasicDCConverter"
+	},
+	{
+		"abr": "cuisineimplant",
+		"price": 2667,
+		"category": "Android",
+		"defname": "CookingMindImplant"
+	},
+	{
+		"abr": "cyberneticarm",
+		"price": 10000,
+		"category": "Android",
+		"defname": "CyberReplacementArm"
+	},
+	{
+		"abr": "cyberneticjaw",
+		"price": 3333,
+		"category": "Android",
+		"defname": "AdvJawAndroid"
+	},
+	{
+		"abr": "cyberneticleg",
+		"price": 9167,
+		"category": "Android",
+		"defname": "CyberReplacementLeg"
+	},
+	{
+		"abr": "elephantman",
+		"price": 1667,
+		"category": "Animal",
+		"defname": "ElephantMan"
+	},
+	{
+		"abr": "elephantmanmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_ElephantMan"
+	},
+	{
+		"abr": "elkman",
+		"price": 1667,
+		"category": "Animal",
+		"defname": "ElkMan"
+	},
+	{
+		"abr": "elkmanmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_ElkMan"
+	},
+	{
+		"abr": "engineeringimplant",
+		"price": 3333,
+		"category": "Android",
+		"defname": "MechanicMindImplant"
+	},
+	{
+		"abr": "evolvingaiupgrade",
+		"price": 5833,
+		"category": "Android",
+		"defname": "EvolvingImplant"
+	},
+	{
+		"abr": "foxman",
+		"price": 1667,
+		"category": "Animal",
+		"defname": "FoxMan"
+	},
+	{
+		"abr": "foxmanmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_FoxMan"
+	},
+	{
+		"abr": "fractalenhancement",
+		"price": 1333,
+		"category": "Drugs",
+		"defname": "FractalPill"
+	},
+	{
+		"abr": "gardenlantern",
+		"price": 77,
+		"category": "Furniture",
+		"defname": "GardenLantern"
+	},
+	{
+		"abr": "gardenlantern(blue)",
+		"price": 77,
+		"category": "Furniture",
+		"defname": "GardenLanternB"
+	},
+	{
+		"abr": "gazelleman",
+		"price": 1667,
+		"category": "Animal",
+		"defname": "GazelleMan"
+	},
+	{
+		"abr": "gazellemanmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_GazelleMan"
+	},
+	{
+		"abr": "geologicalimplant",
+		"price": 3333,
+		"category": "Android",
+		"defname": "GeoMindImplant"
+	},
+	{
+		"abr": "handcannon",
+		"price": 1333,
+		"category": "Ranged weapons",
+		"defname": "MechHandCannon"
+	},
+	{
+		"abr": "highpowerarm",
+		"price": 2500,
+		"category": "Android",
+		"defname": "AdvancedReplacementArm"
+	},
+	{
+		"abr": "highpowerleg",
+		"price": 3000,
+		"category": "Android",
+		"defname": "AdvancedReplacementLeg"
+	},
+	{
+		"abr": "hydraulicarm",
+		"price": 1167,
+		"category": "Android",
+		"defname": "HydraulicArm"
+	},
+	{
+		"abr": "hydraulicframe",
+		"price": 1667,
+		"category": "Android",
+		"defname": "HydraulicFrame"
+	},
+	{
+		"abr": "hydraulicleg",
+		"price": 1167,
+		"category": "Android",
+		"defname": "HydraulicLeg"
+	},
+	{
+		"abr": "k-9cyberneticunit",
+		"price": 14167,
+		"category": "Animal",
+		"defname": "AndroidDog"
+	},
+	{
+		"abr": "lynxman",
+		"price": 1667,
+		"category": "Animal",
+		"defname": "LynxMan"
+	},
+	{
+		"abr": "lynxmanmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_LynxMan"
+	},
+	{
+		"abr": "m.u.f.funit",
+		"price": 2000,
+		"category": "Animal",
+		"defname": "AndroidMuff"
+	},
+	{
+		"abr": "m7mechanisedinfantry",
+		"price": 30000,
+		"category": "Animal",
+		"defname": "M7Mech"
+	},
+	{
+		"abr": "mastiffshotgun",
+		"price": 1333,
+		"category": "Ranged weapons",
+		"defname": "MechMastiffGun"
+	},
+	{
+		"abr": "mechaniteswarm",
+		"price": 33,
+		"category": "Drugs",
+		"defname": "MechSwarm"
+	},
+	{
+		"abr": "metallicwool",
+		"price": 8,
+		"category": "Textiles",
+		"defname": "SteelWool"
+	},
+	{
+		"abr": "microscyther",
+		"price": 67,
+		"category": "Animal",
+		"defname": "MicroScyther"
+	},
+	{
+		"abr": "miningarm",
+		"price": 1667,
+		"category": "Android",
+		"defname": "MiningArm"
+	},
+	{
+		"abr": "mono-salvepill",
+		"price": 133,
+		"category": "Drugs",
+		"defname": "RegenPillAt"
+	},
+	{
+		"abr": "n.solutionunit",
+		"price": 2667,
+		"category": "Animal",
+		"defname": "RoboticCow"
+	},
+	{
+		"abr": "n.solutionunitmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_RoboticCow"
+	},
+	{
+		"abr": "negotiatorimplant",
+		"price": 2667,
+		"category": "Android",
+		"defname": "NegotiationMindImplant"
+	},
+	{
+		"abr": "neuralhighways",
+		"price": 2667,
+		"category": "Android",
+		"defname": "SpeedMindImplant"
+	},
+	{
+		"abr": "nutrientsolution",
+		"price": 13,
+		"category": "Animal products",
+		"defname": "NSolution"
+	},
+	{
+		"abr": "orbitalmech-falltargeter",
+		"price": 4000,
+		"category": "Ranged weapons",
+		"defname": "OrbitalTargeterMechFall"
+	},
+	{
+		"abr": "outdoorfloodlights",
+		"price": 375,
+		"category": "Furniture",
+		"defname": "OutdoorFloodLights"
+	},
+	{
+		"abr": "outdoorlamp",
+		"price": 65,
+		"category": "Furniture",
+		"defname": "OutdoorLamp"
+	},
+	{
+		"abr": "outdoorlamp(blue)",
+		"price": 65,
+		"category": "Furniture",
+		"defname": "OutdoorLamp_Blue"
+	},
+	{
+		"abr": "outdoorlamp(green)",
+		"price": 65,
+		"category": "Furniture",
+		"defname": "OutdoorLamp_Green"
+	},
+	{
+		"abr": "outdoorlamp(orange)",
+		"price": 65,
+		"category": "Furniture",
+		"defname": "OutdoorLamp_Orange"
+	},
+	{
+		"abr": "outdoorlamp(purple)",
+		"price": 65,
+		"category": "Furniture",
+		"defname": "OutdoorLamp_Purple"
+	},
+	{
+		"abr": "outdoorlamp(red)",
+		"price": 65,
+		"category": "Furniture",
+		"defname": "OutdoorLamp_Red"
+	},
+	{
+		"abr": "outdoorsolarlamp",
+		"price": 118,
+		"category": "Furniture",
+		"defname": "OutdoorSolarLamp"
+	},
+	{
+		"abr": "outdoorsolarlamp(blue)",
+		"price": 118,
+		"category": "Furniture",
+		"defname": "OutdoorSolarLamp_Blue"
+	},
+	{
+		"abr": "outdoorsolarlamp(green)",
+		"price": 118,
+		"category": "Furniture",
+		"defname": "OutdoorSolarLamp_Green"
+	},
+	{
+		"abr": "outdoorsolarlamp(orange)",
+		"price": 118,
+		"category": "Furniture",
+		"defname": "OutdoorSolarLamp_Orange"
+	},
+	{
+		"abr": "outdoorsolarlamp(purple)",
+		"price": 118,
+		"category": "Furniture",
+		"defname": "OutdoorSolarLamp_Purple"
+	},
+	{
+		"abr": "outdoorsolarlamp(red)",
+		"price": 118,
+		"category": "Furniture",
+		"defname": "OutdoorSolarLamp_Red"
+	},
+	{
+		"abr": "outdoorstreetlamp",
+		"price": 98,
+		"category": "Furniture",
+		"defname": "OutdoorStreetLamp"
+	},
+	{
+		"abr": "outdoorstreetlamp(blue)",
+		"price": 98,
+		"category": "Furniture",
+		"defname": "OutdoorStreetLamp_Blue"
+	},
+	{
+		"abr": "outdoorstreetlamp(green)",
+		"price": 98,
+		"category": "Furniture",
+		"defname": "OutdoorStreetLamp_Green"
+	},
+	{
+		"abr": "outdoorstreetlamp(orange)",
+		"price": 98,
+		"category": "Furniture",
+		"defname": "OutdoorStreetLamp_Orange"
+	},
+	{
+		"abr": "outdoorstreetlamp(purple)",
+		"price": 98,
+		"category": "Furniture",
+		"defname": "OutdoorStreetLamp_Purple"
+	},
+	{
+		"abr": "outdoorstreetlamp(red)",
+		"price": 98,
+		"category": "Furniture",
+		"defname": "OutdoorStreetLamp_Red"
+	},
+	{
+		"abr": "phytominingunit",
+		"price": 2667,
+		"category": "Animal",
+		"defname": "RoboticSheep"
+	},
+	{
+		"abr": "pigman",
+		"price": 1667,
+		"category": "Animal",
+		"defname": "PigMan"
+	},
+	{
+		"abr": "pigmanmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_PigMan"
+	},
+	{
+		"abr": "plasteelframecoverings",
+		"price": 1333,
+		"category": "Android",
+		"defname": "PlasteelPlating"
+	},
+	{
+		"abr": "polymerantifreeze",
+		"price": 17,
+		"category": "Drugs",
+		"defname": "Antifreeze"
+	},
+	{
+		"abr": "positronicrewiring",
+		"price": 2667,
+		"category": "Android",
+		"defname": "PositronMindImplant"
+	},
+	{
+		"abr": "pumpkinlantern",
+		"price": 77,
+		"category": "Furniture",
+		"defname": "PumpkinLantern"
+	},
+	{
+		"abr": "raccoonman",
+		"price": 1667,
+		"category": "Animal",
+		"defname": "RaccoonMan"
+	},
+	{
+		"abr": "raccoonmanmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_RaccoonMan"
+	},
+	{
+		"abr": "repairkit",
+		"price": 50,
+		"category": "Manufactured",
+		"defname": "RepairKitAT"
+	},
+	{
+		"abr": "roboticsproductioncasket",
+		"price": 900,
+		"category": "Production",
+		"defname": "AndroidProductionVat"
+	},
+	{
+		"abr": "soldierimplant",
+		"price": 2667,
+		"category": "Android",
+		"defname": "SoldierMindImplant"
+	},
+	{
+		"abr": "steelframing",
+		"price": 833,
+		"category": "Android",
+		"defname": "SteelPlating"
+	},
+	{
+		"abr": "structuregel",
+		"price": 58,
+		"category": "Drugs",
+		"defname": "StructureGel"
+	},
+	{
+		"abr": "swarmshell",
+		"price": 292,
+		"category": "Mortar shells",
+		"defname": "Nanoswarm_shell"
+	},
+	{
+		"abr": "t1android",
+		"price": 2333,
+		"category": "Animal",
+		"defname": "Android1Tier"
+	},
+	{
+		"abr": "t2android",
+		"price": 4167,
+		"category": "Animal",
+		"defname": "Android2Tier"
+	},
+	{
+		"abr": "t3android",
+		"price": 8000,
+		"category": "Animal",
+		"defname": "Android3Tier"
+	},
+	{
+		"abr": "t4android",
+		"price": 10000,
+		"category": "Animal",
+		"defname": "Android4Tier"
+	},
+	{
+		"abr": "t5android",
+		"price": 13333,
+		"category": "Animal",
+		"defname": "Android5Tier"
+	},
+	{
+		"abr": "taintedskin",
+		"price": 13,
+		"category": "Leathers",
+		"defname": "Tainted_Skin"
+	},
+	{
+		"abr": "tricorderimplant",
+		"price": 2667,
+		"category": "Android",
+		"defname": "SurgeonMindImplant"
+	},
+	{
+		"abr": "upgradecabinet",
+		"price": 717,
+		"category": "Furniture",
+		"defname": "AndroidOperationKit"
+	},
+	{
+		"abr": "wolfman",
+		"price": 1667,
+		"category": "Animal",
+		"defname": "WolfMan"
+	},
+	{
+		"abr": "wolfmanmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_WolfMan"
+	},
+	{
+		"abr": "zoologyimplant",
+		"price": 2667,
+		"category": "Android",
+		"defname": "AnimalMindImplant"
+	},
+	{
+		"abr": "guestandroidupgradestation",
+		"price": 1142,
+		"category": "Furniture",
+		"defname": "AndroidOperationBedGuest"
+	},
+	{
 		"abr": "guestbed",
 		"price": 155,
 		"category": "Furniture",
@@ -5167,5 +5977,5 @@
 		"defname": "RoyalBedGuest"
 	}
 	],
-	"total": 883
+	"total": 1166
 }
