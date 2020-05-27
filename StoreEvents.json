@@ -61,6 +61,11 @@
 		"karmatype": "Bad"
 	},
 	{
+		"abr": "flashstorm",
+		"price": 400,
+		"karmatype": "Bad"
+	},
+	{
 		"abr": "coldsnap",
 		"price": 800,
 		"karmatype": "Bad"
@@ -163,6 +168,11 @@
 	{
 		"abr": "farmanimals",
 		"price": 400,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "wildman",
+		"price": 1000,
 		"karmatype": "Good"
 	},
 	{
@@ -272,22 +282,22 @@
 	},
 	{
 		"abr": "pawn",
-		"price": 1500,
+		"price": 500,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "levelskill",
-		"price": 600,
+		"price": 500,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "trait",
-		"price": 1500,
+		"price": 500,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "removetrait",
-		"price": 1500,
+		"price": 500,
 		"karmatype": "Good"
 	},
 	{
@@ -309,7 +319,17 @@
 		"abr": "randominspire",
 		"price": 450,
 		"karmatype": "Good"
+	},
+	{
+		"abr": "torytalkervote",
+		"price": 750,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "hodlbotvote",
+		"price": 600,
+		"karmatype": "Neutral"
 	}
 	],
-	"total": 62
+	"total": 66
 }
