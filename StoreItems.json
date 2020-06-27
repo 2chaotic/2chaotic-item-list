@@ -4585,12 +4585,6 @@
 		"defname": "ShipHullTileWreckedFake"
 	},
 	{
-		"abr": "human",
-		"price": 2917,
-		"category": "Animal",
-		"defname": "Human"
-	},
-	{
 		"abr": "humanleather",
 		"price": 7,
 		"category": "Leathers",
@@ -5325,19 +5319,19 @@
 	{
 		"abr": "linkmonosword",
 		"price": 5000,
-		"category": "Bladelink weapons",
+		"category": "Persona weapons",
 		"defname": "MeleeWeapon_MonoSwordBladelink"
 	},
 	{
 		"abr": "linkplasmasword",
 		"price": 5000,
-		"category": "Bladelink weapons",
+		"category": "Persona weapons",
 		"defname": "MeleeWeapon_PlasmaSwordBladelink"
 	},
 	{
 		"abr": "linkzeushammer",
 		"price": 5000,
-		"category": "Bladelink weapons",
+		"category": "Persona weapons",
 		"defname": "MeleeWeapon_ZeusHammerBladelink"
 	},
 	{
@@ -7365,7 +7359,7 @@
 	{
 		"abr": "psychicamplifier",
 		"price": 2000,
-		"category": "Archotech",
+		"category": "Items",
 		"defname": "PsychicAmplifier"
 	},
 	{
@@ -7421,12 +7415,6 @@
 		"price": 917,
 		"category": "Artifacts",
 		"defname": "PsychicShockLance"
-	},
-	{
-		"abr": "psychicsilencer",
-		"price": 2000,
-		"category": "Archotech",
-		"defname": "PsychicSilencer"
 	},
 	{
 		"abr": "psychicsoothepulser",
@@ -7511,12 +7499,6 @@
 		"price": 917,
 		"category": "Psytrainers",
 		"defname": "Psytrainer_ChaosSkip"
-	},
-	{
-		"abr": "psytrainer(entropylink)",
-		"price": 667,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_EntropyLink"
 	},
 	{
 		"abr": "psytrainer(focus)",
@@ -9331,12 +9313,6 @@
 		"defname": "Techprint_VenomSynthesis"
 	},
 	{
-		"abr": "techprint(repulsortechnology)",
-		"price": 1667,
-		"category": "Techprints",
-		"defname": "Techprint_VFES_RepulsorTechnology"
-	},
-	{
 		"abr": "techprint(skinhardening)",
 		"price": 3333,
 		"category": "Techprints",
@@ -9347,12 +9323,6 @@
 		"price": 1667,
 		"category": "Techprints",
 		"defname": "Techprint_SpecializedLimbs"
-	},
-	{
-		"abr": "techprint(ultratechlaserweapons)",
-		"price": 5000,
-		"category": "Techprints",
-		"defname": "Techprint_VWE_UltratechLaserWeapons"
 	},
 	{
 		"abr": "techprofsubpersonacore",
@@ -10943,7 +10913,85 @@
 		"price": 1142,
 		"category": "Misc",
 		"defname": "ShipTorpedoTwo"
+	},
+	{
+		"abr": "animusstone",
+		"price": 8333,
+		"category": "Misc",
+		"defname": "AnimusStone"
+	},
+	{
+		"abr": "iedsmoketrap",
+		"price": 192,
+		"category": "Security",
+		"defname": "TrapIED_Smoke"
+	},
+	{
+		"abr": "largenatureshrine",
+		"price": 1183,
+		"category": "Misc",
+		"defname": "NatureShrine_Large"
+	},
+	{
+		"abr": "lightcolumn",
+		"price": 170,
+		"category": "Misc",
+		"defname": "LightColumnMod"
+	},
+	{
+		"abr": "prestigecataphractarmor",
+		"price": 6550,
+		"category": "Armor",
+		"defname": "Apparel_ArmorCataphractPrestige"
+	},
+	{
+		"abr": "prestigecataphracthelmet",
+		"price": 1925,
+		"category": "Headgear",
+		"defname": "Apparel_ArmorHelmetCataphractPrestige"
+	},
+	{
+		"abr": "prestigemarinearmor",
+		"price": 4217,
+		"category": "Armor",
+		"defname": "Apparel_ArmorMarinePrestige"
+	},
+	{
+		"abr": "prestigemarinehelmet",
+		"price": 1417,
+		"category": "Headgear",
+		"defname": "Apparel_ArmorMarineHelmetPrestige"
+	},
+	{
+		"abr": "prestigereconarmor",
+		"price": 3292,
+		"category": "Armor",
+		"defname": "Apparel_ArmorReconPrestige"
+	},
+	{
+		"abr": "prestigereconhelmet",
+		"price": 1192,
+		"category": "Headgear",
+		"defname": "Apparel_ArmorHelmetReconPrestige"
+	},
+	{
+		"abr": "psytrainer(bulletshield)",
+		"price": 1667,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_BulletShield"
+	},
+	{
+		"abr": "psytrainer(flashstorm)",
+		"price": 1417,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_Flashstorm"
+	},
+	{
+		"abr": "psytrainer(neuralheatdump)",
+		"price": 667,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_EntropyDump"
 	}
 	],
-	"total": 1843
+	"total": 1855
 }
