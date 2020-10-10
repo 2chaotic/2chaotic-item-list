@@ -172,7 +172,7 @@
 	},
 	{
 		"abr": "wildman",
-		"price": 1000,
+		"price": 300,
 		"karmatype": "Good"
 	},
 	{
@@ -198,11 +198,6 @@
 	{
 		"abr": "skillincrease",
 		"price": 200,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "party",
-		"price": 400,
 		"karmatype": "Good"
 	},
 	{
@@ -282,22 +277,22 @@
 	},
 	{
 		"abr": "pawn",
-		"price": 500,
+		"price": 1500,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "levelskill",
-		"price": 500,
+		"price": 1500,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "trait",
-		"price": 500,
+		"price": 3500,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "removetrait",
-		"price": 500,
+		"price": 5500,
 		"karmatype": "Good"
 	},
 	{
@@ -331,5 +326,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 66
+	"total": 65
 }
